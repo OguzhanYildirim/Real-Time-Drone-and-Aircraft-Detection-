@@ -7,4 +7,4 @@ In this study, different models were trained on a dataset containing a total of 
 
 For the test work, we used a public-domain drone dataset, USC Drone Dataset, which consists of 30 YouTube video sequences and captures different drone models with various appearances.
 
-https://github.com/chelicynly/A-Deep-Learning-Approach-to-Drone-Monitoring
+
